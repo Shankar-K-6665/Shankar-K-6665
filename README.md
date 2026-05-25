@@ -1,206 +1,153 @@
-<h1 align="center">Hi 👋, I'm Shankar K</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 AI/ML Engineer | Full Stack Developer | Data Analyst
-</h3>
+# 👋 Hi, I'm Shankar K
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Developer;FastAPI+%7C+ReactJS+Developer;Data+Analytics+%26+Visualization;Building+Real+World+AI+Applications;Open+Source+Enthusiast" />
-</p>
+### 🚀 AI/ML Engineer | Full Stack Developer | Data Analyst
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Developer;FastAPI+%7C+ReactJS+Developer;Building+Scalable+AI+Applications;Data+Analytics+%26+Visualization;Open+Source+Enthusiast" />
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-# 💫 About Me
-
-🎓 AIML Student at New Horizon College of Engineering  
-💻 Passionate Full Stack & AI Developer  
-🚀 Building scalable AI-powered applications  
-📊 Interested in Machine Learning, Deep Learning & Analytics  
-⚡ Skilled in Python, FastAPI, ReactJS, SQL & Power BI  
-🌱 Currently learning Cloud, DevOps & Advanced AI Systems  
-🔥 Love solving real-world problems through technology
+</div>
 
 ---
 
-# 🌐 Connect With Me
+<div align="center">
 
-<p align="left">
-<a href="https://github.com/YOUR_USERNAME" target="blank">
-<img src="https://skillicons.dev/icons?i=github" height="45" />
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://instagram.com/YOUR_INSTAGRAM">
-<img src="https://skillicons.dev/icons?i=instagram" height="45" />
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-</p>
+
+</div>
+
+---
+
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+# 💫 About Me
+
+```python
+class Shankar():
+    
+    def __init__(self):
+        self.name = "Shankar K"
+        self.role = "AI/ML Engineer"
+        self.language_spoken = ["Python", "Java", "SQL"]
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Full Stack Development",
+            "Data Analytics"
+        ]
+
+    def say_hi(self):
+        print("Thanks for visiting my GitHub Profile!")
+
+me = Shankar()
+me.say_hi()
+```
 
 ---
 
 # 🚀 Tech Stack
 
-## 👨‍💻 Programming Languages
+<div align="center">
 
-<p>
+## 👨‍💻 Languages
+
 <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,sql" />
-</p>
 
 ---
 
 ## ⚙️ Frameworks & Libraries
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,tailwind,bootstrap" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,bootstrap,tailwind" />
 
 ---
 
 ## 🤖 AI / ML
 
-<p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
 
 ---
 
 ## 🛢️ Databases
 
-<p>
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" />
-</p>
 
 ---
 
-## ☁️ Dev Tools
+## ☁️ Tools & Platforms
 
-<p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
-</p>
+
+</div>
 
 ---
 
 # 🏆 Featured Projects
 
-# 🚀 AI-Powered Startup Recommendation Engine
+<div align="center">
 
-### ✨ Features
-✅ AI Mentor Chatbot  
-✅ JWT Authentication  
-✅ Multi-LLM Support  
-✅ Role-Based Access Control  
-✅ Real-Time Chat using WebSockets  
-✅ Redis Integration  
-✅ Docker Deployment  
+| 🚀 Project | 🔥 Description | ⚡ Tech |
+|---|---|---|
+| **Startup Recommendation Engine** | AI mentor chatbot with startup recommendation system | FastAPI, PostgreSQL, Redis |
+| **Rental Car Platform** | Full-stack car rental booking website | ReactJS, SQL |
+| **YouTube Analytics Dashboard** | Trending analytics & sentiment analysis | Python, Power BI |
+| **Synthetic Data Generator** | Generate startup datasets with analytics | Streamlit, Faker |
 
-### 🛠️ Tech Used
-`FastAPI` `PostgreSQL` `Redis` `Docker` `ReactJS`
+</div>
 
 ---
 
-# 🚗 Rental Car E-Commerce Platform
+# 📊 GitHub Analytics
 
-### ✨ Features
-✅ Online Car Booking  
-✅ Search & Filters  
-✅ Booking History  
-✅ Admin Dashboard  
-✅ User Authentication  
+<div align="center">
 
-### 🛠️ Tech Used
-`ReactJS` `NodeJS` `SQL` `Bootstrap`
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
----
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117"/>
 
-# 📊 YouTube Trending Analytics Dashboard
-
-### ✨ Features
-✅ Sentiment Analysis  
-✅ SQL Analytics  
-✅ Trending Insights  
-✅ Power BI Dashboard  
-✅ Data Cleaning & Visualization  
-
-### 🛠️ Tech Used
-`Python` `Power BI` `SQL` `Pandas`
-
----
-
-# 📈 Synthetic Data Generator
-
-### ✨ Features
-✅ Fake Data Generation  
-✅ CSV Download  
-✅ Analytics Dashboard  
-✅ Interactive Charts  
-✅ Streamlit Deployment  
-
-### 🛠️ Tech Used
-`Python` `Streamlit` `Faker` `Matplotlib`
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&bg_color=0D1117&hide_border=true"/>
+
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=7"/>
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
+
+</div>
 
 ---
 
-# 📚 Certifications
+# ⚡ Coding Profiles
 
-🏅 IBM Skills Build Certifications  
-🏅 SQL and Relational Databases 101  
-🏅 NPTEL Computer Networking  
-🏅 Machine Learning Internship Certificate  
-🏅 Data Analyst Internship Certificate  
+<div align="center">
 
----
-
-# 📌 Current Focus
-
-🚀 Advanced AI Applications  
-🌐 Full Stack Development  
-☁️ Cloud & DevOps  
-📊 Data Analytics & Visualization  
-🤝 Open Source Contributions  
-
----
-
-# 💻 Coding Profiles
-
-<p align="left">
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
@@ -210,34 +157,80 @@
 <a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</p>
+
+<a href="https://leetcode.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+# 📚 Certifications
+
+<div align="center">
+
+🥇 IBM Skills Build Certifications  
+🥇 SQL and Relational Databases 101  
+🥇 NPTEL Computer Networking  
+🥇 Machine Learning Internship  
+🥇 Data Analyst Internship  
+
+</div>
 
 ---
 
 # 👀 Profile Views
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-</p>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 💻 Developer Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
 
 ---
 
 # ⚡ Fun Fact
 
+<div align="center">
+
 ```python
-while(True):
+while True:
+
+    eat()
+    sleep()
     code()
-    learn()
-    build()
     repeat()
 ```
 
+</div>
+
 ---
 
-<h3 align="center">
-🔥 Thanks For Visiting My Profile 🔥
-</h3>
+<div align="center">
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=120&section=footer"/>
-</p>
+# 🔥 Thanks For Visiting My Profile 🔥
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=140&section=footer"/>
+
+</div>
