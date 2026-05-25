@@ -10,7 +10,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="380" src="https://images.aloa.co/posts/7-most-influential-ai-developer-tools/64d6bd51ab17a00828b644bf_header.webp">
 
 # 💫 About Me
 
@@ -39,9 +39,7 @@
 <img src="https://skillicons.dev/icons?i=gmail" height="45" />
 </a>
 
-<a href="https://instagram.com/YOUR_INSTAGRAM">
-<img src="https://skillicons.dev/icons?i=instagram" height="45" />
-</a>
+
 </p>
 
 ---
