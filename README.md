@@ -155,13 +155,11 @@ class ShankarK:
 
 # 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Shankar-K-6665&show_icons=true&theme=radical" height="170"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shankar-K-6665&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shankar-K-6665&layout=compact&theme=tokyonight"/>
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shankar-K-6665&layout=compact&theme=radical" height="170"/>
+</p>
 
 ---
 
