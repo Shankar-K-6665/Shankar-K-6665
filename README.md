@@ -26,9 +26,11 @@
 
 ---
 
+## 👨‍💻 Software Developer
+
 <div align="center">
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="700"/>
+<img width="600" alt="Software Developer" src="https://media.gettyimages.com/id/2198605373/vector/software-developer-flat-design.jpg?s=612x612&w=0&k=20&c=LH7OFG3cMgJyls2LGa4z_PaQmIYMTmQDhvE1HEoiUus=">
 
 </div>
 
