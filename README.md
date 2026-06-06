@@ -1,10 +1,34 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:667eea,100:764ba2&text=Shankar%20K&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20Engineer%20%7C%20Python%20Developer%20%7C%20Data%20Analyst&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&text=Shankar%20K&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%20%7C%20Data%20Analytics&descAlignY=55&descSize=24"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence+%26+Machine+Learning+Engineer;Python+Developer;Data+Analyst;Power+BI+Developer;FastAPI+Backend+Developer;Open+Source+Enthusiast;Building+AI+Powered+Solutions"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=👋+Welcome+to+my+GitHub+Profile;🤖+Artificial+Intelligence+%26+Machine+Learning+Engineer;💻+Python+%7C+Java+%7C+SQL+Developer;📊+Data+Analyst+%7C+Power+BI+Developer;🚀+FastAPI+Backend+Developer;🔥+Building+AI+Powered+Solutions;🌟+Always+Learning+New+Technologies"/>
 
-<img src="https://komarev.com/ghpvc/?username=Shankar-K-6665&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Shankar-K-6665&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Shankar-K-6665?label=Followers&style=for-the-badge&color=blue"/>
+
+<img src="https://img.shields.io/github/stars/Shankar-K-6665?affiliations=OWNER&style=for-the-badge&color=yellow"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# AI Engineer | Data Analyst | Python Developer 
+
+### Turning Ideas Into Intelligent Solutions Through AI, Data & Software Engineering
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="700"/>
 
 </div>
 
