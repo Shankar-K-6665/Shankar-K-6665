@@ -2,244 +2,189 @@
 
 # 👋 Hi, I'm Shankar K
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=AI+%26+ML+Engineer;Python+Developer;Data+Analyst;Power+BI+Developer;FastAPI+Backend+Developer;Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00CFFF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning+Engineer;Python+Developer;Data+Analyst;Power+BI+Developer;FastAPI+Backend+Developer;Machine+Learning+Enthusiast;Building+AI-Powered+Solutions" />
 
-<p>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="YOUR_GITHUB_URL">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="mailto:shankaraiml6665@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
-🎓 Artificial Intelligence & Machine Learning Student
+🎓 AIML Student passionate about Artificial Intelligence and Data Science
 
-💻 Passionate Software Developer
+💻 Software Developer specializing in Python, SQL, FastAPI & Data Analytics
 
-📊 Data Analyst & Power BI Enthusiast
+📊 Power BI Dashboard Developer
 
-🤖 Machine Learning & Deep Learning Explorer
+🤖 Machine Learning & Deep Learning Enthusiast
+
+🚀 Building AI-powered applications and scalable backend systems
 
 🌱 Currently Learning:
-- Advanced Machine Learning
 - Generative AI
-- FastAPI
+- Deep Learning
+- MLOps
 - Cloud Technologies
-- Data Engineering
-
-🎯 Goal:
-To build impactful AI-powered products that solve real-world problems.
+- Advanced Data Analytics
 
 ---
 
-# 🛠 Tech Stack
+# 🌐 Socials
 
-## Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,html,css" />
-</p>
-
-## Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</p>
-
-## Frameworks & Libraries
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi" />
-</p>
-
-- NumPy
-- Pandas
-- Scikit-Learn
-- TensorFlow
-- Matplotlib
-- Seaborn
-
-## Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shankaraiml6665@gmail.com)
 
 ---
 
-# 🏆 Featured Projects
+# 💻 Tech Stack
 
-## 🚀 AI Powered Startup Recommendation Engine
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JAVA](https://img.shields.io/badge/JAVA-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
+![PYTHON](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-AI-driven startup recommendation platform helping founders discover startup ideas, generate business plans, explore funding opportunities and connect with co-founders.
+![FASTAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![STREAMLIT](https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLITE](https://img.shields.io/badge/SQLITE-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Tech Stack
-FastAPI • PostgreSQL • JWT • Redis • Docker • AI Integration
+![NUMPY](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![PANDAS](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![MATPLOTLIB](https://img.shields.io/badge/MATPLOTLIB-11557c?style=for-the-badge)
+![SEABORN](https://img.shields.io/badge/SEABORN-3776AB?style=for-the-badge)
 
-### Features
-✅ Startup Idea Generation
+![SCIKIT--LEARN](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TENSORFLOW](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![KERAS](https://img.shields.io/badge/KERAS-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PYTORCH](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-✅ AI Mentor Chatbot
+![POWER BI](https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+![DOCKER](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS CODE](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-✅ Co-Founder Matching
+---
 
-✅ Funding Recommendations
+# 🚀 Featured Projects
 
-✅ Real-Time Group Chat
+## 🤖 AI Powered Startup Recommendation Engine
 
-✅ Job Posting System
+- AI-driven Startup Recommendation Platform
+- AI Mentor Chatbot
+- Funding Roadmap Generator
+- Co-Founder Matching System
+- FastAPI Backend
+- PostgreSQL Database
+- Docker Deployment
 
 ---
 
 ## 🚗 Rental Car Web Application
 
-Modern car rental platform with booking management and real-time vehicle availability.
-
-### Features
-
-✅ Car Search & Filters
-
-✅ Secure Login System
-
-✅ Booking Management
-
-✅ Customer Dashboard
-
-✅ Admin Dashboard
+- Online Car Booking Platform
+- Secure User Authentication
+- Booking Management
+- Search & Filter Cars
+- Admin Dashboard
 
 ---
 
 ## 📊 YouTube Trending Analytics Dashboard
 
-Advanced analytics dashboard for analyzing trending videos across countries.
-
-### Features
-
-✅ Sentiment Analysis
-
-✅ SQL Analytics
-
-✅ Power BI Dashboard
-
-✅ KPI Tracking
-
-✅ Category Analysis
+- Power BI Dashboard
+- SQL Analytics
+- Sentiment Analysis
+- KPI Tracking
+- Data Visualization
 
 ---
 
 ## 📈 Synthetic Data Generator
 
-Streamlit application for generating realistic startup datasets.
-
-### Features
-
-✅ User Data Generation
-
-✅ Transaction Data Generation
-
-✅ Interactive Dashboard
-
-✅ CSV Export
-
-✅ Analytics Visualization
+- Streamlit Application
+- Dynamic Dataset Generation
+- CSV Export
+- Analytics Dashboard
+- Interactive Charts
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</div>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</div>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=2&column=4" />
+</p>
 
 ---
 
 # 📈 Contribution Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</div>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
 
 ---
 
-# 🏅 Achievements
+# 🏅 Certifications
 
-🏆 Data Analyst Intern – Elevate Labs
+✔ SQL and Relational Databases
 
-🏆 Machine Learning Intern – Cognifyz Technologies
+✔ IBM SkillsBuild
 
-🏆 IBM SkillsBuild Certifications
+✔ Computer Networking
 
-🏆 SQL & Relational Databases
+✔ Data Analyst Internship
 
-🏆 Computer Networking Certification
-
----
-
-# 📚 Currently Working On
-
-🔹 Generative AI Projects
-
-🔹 Startup Recommendation Engine Enhancement
-
-🔹 Deep Learning Applications
-
-🔹 Data Analytics Dashboards
+✔ Machine Learning Internship
 
 ---
 
-# 🤝 Connect With Me
+# 🎯 Current Focus
 
-<p align="center">
+🔹 Generative AI
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+🔹 Deep Learning
 
-<a href="mailto:shankaraiml6665@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
+🔹 Machine Learning
 
-<a href="YOUR_GITHUB_URL">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
+🔹 FastAPI Development
 
-</p>
+🔹 Data Analytics
+
+🔹 Open Source Contributions
+
+---
+
+# 📫 Reach Me
+
+📧 Email: shankaraiml6665@gmail.com
+
+💼 LinkedIn: YOUR_LINKEDIN_URL
+
+💻 GitHub: https://github.com/YOUR_USERNAME
 
 ---
 
 <div align="center">
 
-### ⭐ "Building AI Solutions That Create Real Impact"
+### ⭐ Turning Ideas Into Intelligent Solutions ⭐
 
 </div>
