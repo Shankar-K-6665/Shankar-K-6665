@@ -1,241 +1,206 @@
-<h1 align="center">Hi 👋, I'm Shankar K</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 AI/ML Engineer | Full Stack Developer | Data Analyst
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=SHANKAR%20K&fontSize=70&fontAlignY=40&animation=fadeIn"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Developer;FastAPI+%7C+ReactJS+Developer;Data+Analytics+%26+Visualization;Building+Real+World+AI+Applications;Open+Source+Enthusiast" />
-</p>
+# 👨‍💻 AI/ML Engineer | Full Stack Developer
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;FastAPI+Developer;ReactJS+Developer;Data+Analyst;Building+Real+World+Projects"/>
 
-<img align="right" alt="Coding" width="380" src="https://images.aloa.co/posts/7-most-influential-ai-developer-tools/64d6bd51ab17a00828b644bf_header.webp">
-
-# 💫 About Me
-
-🎓 AIML Student at New Horizon College of Engineering  
-💻 Passionate Full Stack & AI Developer  
-🚀 Building scalable AI-powered applications  
-📊 Interested in Machine Learning, Deep Learning & Analytics  
-⚡ Skilled in Python, FastAPI, ReactJS, SQL & Power BI  
-🌱 Currently learning Cloud, DevOps & Advanced AI Systems  
-🔥 Love solving real-world problems through technology
+</div>
 
 ---
 
-# 🌐 Connect With Me
+<div align="center">
 
-<p align="left">
-<a href="https://github.com/YOUR_USERNAME" target="blank">
-<img src="https://skillicons.dev/icons?i=github" height="45" />
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45" />
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
+<a href="https://portfolio-link.com">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
 
-</p>
-
----
-
-# 🚀 Tech Stack
-
-## 👨‍💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,sql" />
-</p>
+</div>
 
 ---
 
-## ⚙️ Frameworks & Libraries
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,tailwind,bootstrap" />
-</p>
+## 🚀 About Me
 
----
+```yaml
+Name: Shankar K
 
-## 🤖 AI / ML
+Education:
+  - B.E Artificial Intelligence & Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
+Current Focus:
+  - Machine Learning
+  - FastAPI
+  - ReactJS
+  - Data Analytics
+  - Cloud Technologies
 
----
+Skills:
+  - Python
+  - Java
+  - SQL
+  - Power BI
+  - FastAPI
+  - PostgreSQL
 
-## 🛢️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" />
-</p>
-
----
-
-## ☁️ Dev Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
-</p>
-
----
-
-# 🏆 Featured Projects
-
-# 🚀 AI-Powered Startup Recommendation Engine
-
-### ✨ Features
-✅ AI Mentor Chatbot  
-✅ JWT Authentication  
-✅ Multi-LLM Support  
-✅ Role-Based Access Control  
-✅ Real-Time Chat using WebSockets  
-✅ Redis Integration  
-✅ Docker Deployment  
-
-### 🛠️ Tech Used
-`FastAPI` `PostgreSQL` `Redis` `Docker` `ReactJS`
+Location:
+  - Bangalore, India
+```
 
 ---
 
-# 🚗 Rental Car E-Commerce Platform
+# ⚡ Tech Arsenal
 
-### ✨ Features
-✅ Online Car Booking  
-✅ Search & Filters  
-✅ Booking History  
-✅ Admin Dashboard  
-✅ User Authentication  
+<div align="center">
 
-### 🛠️ Tech Used
-`ReactJS` `NodeJS` `SQL` `Bootstrap`
+<img src="https://skillicons.dev/icons?i=python,java,react,fastapi,postgres,mysql,docker,git,github,vscode,html,css,javascript"/>
+
+</div>
 
 ---
 
-# 📊 YouTube Trending Analytics Dashboard
+# 🤖 AI & Data Science
 
-### ✨ Features
-✅ Sentiment Analysis  
-✅ SQL Analytics  
-✅ Trending Insights  
-✅ Power BI Dashboard  
-✅ Data Cleaning & Visualization  
+<div align="center">
 
-### 🛠️ Tech Used
-`Python` `Power BI` `SQL` `Pandas`
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 
----
+</div>
 
-# 📈 Synthetic Data Generator
-
-### ✨ Features
-✅ Fake Data Generation  
-✅ CSV Download  
-✅ Analytics Dashboard  
-✅ Interactive Charts  
-✅ Streamlit Deployment  
-
-### 🛠️ Tech Used
-`Python` `Streamlit` `Faker` `Matplotlib`
+- Machine Learning
+- Deep Learning
+- Data Analytics
+- NLP
+- Predictive Modeling
+- Power BI Dashboards
 
 ---
 
-# 📊 GitHub Stats
+# 🚀 Featured Projects
 
-<p align="center">
+### 🧠 Startup Recommendation Engine
+```diff
++ AI Mentor Chatbot
++ JWT Authentication
++ FastAPI Backend
++ PostgreSQL Database
++ Docker Deployment
++ WebSocket Real-Time Chat
+```
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+### 🚗 Rental Car Platform
+```diff
++ User Authentication
++ Booking System
++ Admin Dashboard
++ Search & Filters
++ Vehicle Management
+```
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+### 📊 YouTube Trending Analytics Dashboard
+```diff
++ Sentiment Analysis
++ SQL Analytics
++ Power BI Dashboard
++ Trending Insights
+```
 
-</p>
+### 📈 Synthetic Data Generator
+```diff
++ Faker Integration
++ Streamlit Dashboard
++ CSV Export
++ Analytics Visualization
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-</p>
+
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 Achievements
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=7"/>
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&column=4"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
 
 ---
 
 # 📚 Certifications
 
-🏅 IBM Skills Build Certifications  
-🏅 SQL and Relational Databases 101  
-🏅 NPTEL Computer Networking  
-🏅 Machine Learning Internship Certificate  
-🏅 Data Analyst Internship Certificate  
+🏅 IBM SkillsBuild
+
+🏅 SQL & Relational Databases
+
+🏅 NPTEL Computer Networking
+
+🏅 Data Analyst Internship
+
+🏅 Machine Learning Internship
 
 ---
 
-# 📌 Current Focus
+# 💡 Quote
 
-🚀 Advanced AI Applications  
-🌐 Full Stack Development  
-☁️ Cloud & DevOps  
-📊 Data Analytics & Visualization  
-🤝 Open Source Contributions  
+> "Transforming ideas into intelligent solutions through code."
 
 ---
 
-# 💻 Coding Profiles
+<div align="center">
 
-<p align="left">
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge"/>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+</div>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+<div align="center">
 
----
+### 🔥 Thanks For Visiting My Profile 🔥
 
-# 👀 Profile Views
+</div>
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-</p>
-
----
-
-# ⚡ Fun Fact
-
-```python
-while(True):
-    code()
-    learn()
-    build()
-    repeat()
-```
-
----
-
-<h3 align="center">
-🔥 Thanks For Visiting My Profile 🔥
-</h3>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=120&section=footer"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient"/>
