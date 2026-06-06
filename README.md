@@ -1,141 +1,162 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=SHANKAR%20K&fontSize=70&fontColor=ffffff&animation=fadeIn"/>
+# 👋 Hi, I'm Shankar K
 
-# 🚀 AI/ML Engineer | Full Stack Developer | Data Analyst
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=AI+%26+ML+Engineer;Python+Developer;Data+Analyst;Power+BI+Developer;FastAPI+Backend+Developer;Open+Source+Enthusiast" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;FastAPI+%7C+ReactJS+Developer;Data+Analytics+Enthusiast;Building+Real+World+Projects"/>
+<p>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<br>
+  <a href="YOUR_GITHUB_URL">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <a href="mailto:shankaraiml6665@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+</p>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://portfolio.vercel.app">
-<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
 ---
 
-# 💫 About Me
+# 🚀 About Me
 
-```python
-class Shankar:
+🎓 Artificial Intelligence & Machine Learning Student
 
-    def __init__(self):
-        self.role = "AI/ML Engineer"
-        self.location = "Bangalore, India"
-        self.languages = ["Python", "Java", "SQL"]
-        self.specialization = [
-            "Machine Learning",
-            "Deep Learning",
-            "FastAPI",
-            "Data Analytics"
-        ]
+💻 Passionate Software Developer
 
-    def current_focus(self):
-        return [
-            "AI Systems",
-            "Full Stack Development",
-            "Cloud Deployment",
-            "Open Source"
-        ]
-```
+📊 Data Analyst & Power BI Enthusiast
+
+🤖 Machine Learning & Deep Learning Explorer
+
+🌱 Currently Learning:
+- Advanced Machine Learning
+- Generative AI
+- FastAPI
+- Cloud Technologies
+- Data Engineering
+
+🎯 Goal:
+To build impactful AI-powered products that solve real-world problems.
 
 ---
 
-# ⚡ Tech Stack
+# 🛠 Tech Stack
 
-<div align="center">
+## Programming Languages
 
-### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,html,css" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,sql"/>
+## Database
 
-### Frameworks
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,fastapi,nodejs,bootstrap,tailwind"/>
+## Frameworks & Libraries
 
-### Databases
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
+- NumPy
+- Pandas
+- Scikit-Learn
+- TensorFlow
+- Matplotlib
+- Seaborn
 
-### AI / ML
+## Tools
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman"/>
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-## 🧠 AI Startup Recommendation Engine
-
-```yaml
-Backend: FastAPI
-Database: PostgreSQL
-Authentication: JWT
-Deployment: Docker
-Realtime: WebSocket + Redis
-Features:
-  - AI Mentor Chatbot
-  - Startup Idea Generator
-  - Funding Recommendations
-  - Co-Founder Matching
-```
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+</p>
 
 ---
 
-## 🚗 Rental Car Platform
+# 🏆 Featured Projects
 
-```yaml
-Features:
-  - Online Booking
-  - Search & Filter
-  - User Dashboard
-  - Admin Panel
-  - Reviews & Testimonials
-```
+## 🚀 AI Powered Startup Recommendation Engine
+
+AI-driven startup recommendation platform helping founders discover startup ideas, generate business plans, explore funding opportunities and connect with co-founders.
+
+### Tech Stack
+FastAPI • PostgreSQL • JWT • Redis • Docker • AI Integration
+
+### Features
+✅ Startup Idea Generation
+
+✅ AI Mentor Chatbot
+
+✅ Co-Founder Matching
+
+✅ Funding Recommendations
+
+✅ Real-Time Group Chat
+
+✅ Job Posting System
 
 ---
 
-## 📊 YouTube Trending Analytics
+## 🚗 Rental Car Web Application
 
-```yaml
-Features:
-  - Sentiment Analysis
-  - SQL Analytics
-  - Power BI Dashboard
-  - Trending Insights
-```
+Modern car rental platform with booking management and real-time vehicle availability.
+
+### Features
+
+✅ Car Search & Filters
+
+✅ Secure Login System
+
+✅ Booking Management
+
+✅ Customer Dashboard
+
+✅ Admin Dashboard
+
+---
+
+## 📊 YouTube Trending Analytics Dashboard
+
+Advanced analytics dashboard for analyzing trending videos across countries.
+
+### Features
+
+✅ Sentiment Analysis
+
+✅ SQL Analytics
+
+✅ Power BI Dashboard
+
+✅ KPI Tracking
+
+✅ Category Analysis
 
 ---
 
 ## 📈 Synthetic Data Generator
 
-```yaml
-Features:
-  - Fake Data Generation
-  - Analytics Dashboard
-  - CSV Export
-  - Streamlit Deployment
-```
+Streamlit application for generating realistic startup datasets.
+
+### Features
+
+✅ User Data Generation
+
+✅ Transaction Data Generation
+
+✅ Interactive Dashboard
+
+✅ CSV Export
+
+✅ Analytics Visualization
 
 ---
 
@@ -143,92 +164,82 @@ Features:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+# 🔥 GitHub Streak
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&column=4"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
 
 </div>
 
 ---
 
-# 📚 Certifications
+# 🏅 Achievements
 
-🏅 IBM SkillsBuild
+🏆 Data Analyst Intern – Elevate Labs
 
-🏅 SQL & Relational Databases
+🏆 Machine Learning Intern – Cognifyz Technologies
 
-🏅 NPTEL Computer Networking
+🏆 IBM SkillsBuild Certifications
 
-🏅 Machine Learning Internship
+🏆 SQL & Relational Databases
 
-🏅 Data Analyst Internship
-
----
-
-# 🌟 Current Goals
-
-✅ Advanced Machine Learning
-
-✅ System Design
-
-✅ Cloud & DevOps
-
-✅ Open Source Contributions
-
-✅ AI Product Development
+🏆 Computer Networking Certification
 
 ---
 
-# 💻 Profile Metrics
+# 📚 Currently Working On
 
-<div align="center">
+🔹 Generative AI Projects
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
+🔹 Startup Recommendation Engine Enhancement
 
-</div>
+🔹 Deep Learning Applications
 
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
-
-</div>
+🔹 Data Analytics Dashboards
 
 ---
 
-# 💡 Developer Philosophy
+# 🤝 Connect With Me
 
-> "Building intelligent systems that solve real-world problems."
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:shankaraiml6665@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="YOUR_GITHUB_URL">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### 🔥 Thanks for visiting my profile 🔥
+### ⭐ "Building AI Solutions That Create Real Impact"
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:0F2027,50:203A43,100:2C5364"/>
