@@ -2,15 +2,15 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&text=Shankar%20K&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%20%7C%20Data%20Analytics&descAlignY=55&descSize=24"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=👋+Welcome+to+my+GitHub+Profile;🤖+Artificial+Intelligence+%26+Machine+Learning+Engineer;💻+Python+%7C+Java+%7C+SQL+Developer;📊+Data+Analyst+%7C+Power+BI+Developer;🚀+FastAPI+Backend+Developer;🔥+Building+AI+Powered+Solutions;🌟+Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Profile;Artificial+Intelligence+%26+Machine+Learning+Engineer;Python+%7C+Java+%7C+SQL+Developer;Data+Analyst+%7C+Power+BI+Developer;FastAPI+Backend+Developer;Building+AI+Powered+Solutions;Always+Learning+New+Technologies"/>
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Shankar-K-6665&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Shankar-K-6665&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 
 <img src="https://img.shields.io/github/followers/Shankar-K-6665?label=Followers&style=for-the-badge&color=blue"/>
 
-<img src="https://img.shields.io/github/stars/Shankar-K-6665?affiliations=OWNER&style=for-the-badge&color=yellow"/>
+<img src="https://img.shields.io/badge/AI%20%26%20ML-Engineer-blueviolet?style=for-the-badge"/>
 
 </div>
 
