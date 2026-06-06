@@ -18,7 +18,7 @@
 
 <div align="center">
 
-# AI Engineer | Python Developer | Data Analyst | Power BI Enthusiast
+# AI Engineer | Python Developer | Data Analyst 
 
 ### ⚡ Code • Learn • Build • Innovate • Repeat
 
