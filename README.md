@@ -18,19 +18,17 @@
 
 <div align="center">
 
-# AI Engineer | Data Analyst | Python Developer 
+# AI Engineer | Python Developer | Data Analyst | Power BI Enthusiast
 
-### Turning Ideas Into Intelligent Solutions Through AI, Data & Software Engineering
+### Building Intelligent Solutions Through AI, Data, and Innovation
 
 </div>
 
 ---
 
-## 👨‍💻 Software Developer
-
 <div align="center">
 
-<img width="600" alt="Software Developer" src="https://media.gettyimages.com/id/2198605373/vector/software-developer-flat-design.jpg?s=612x612&w=0&k=20&c=LH7OFG3cMgJyls2LGa4z_PaQmIYMTmQDhvE1HEoiUus=">
+<img src="https://i.pinimg.com/1200x/81/29/92/812992f44a2cd6e6787b8b61209abf48.jpg" width="650"/>
 
 </div>
 
@@ -39,36 +37,37 @@
 # 💫 About Me
 
 ```python
+
 class ShankarK:
 
-    def __init__(self):
-        self.role = "AI & ML Engineer"
-        self.education = "B.E. Artificial Intelligence & Machine Learning"
-        self.location = "Bangalore, India"
+    role = "AI & ML Engineer"
 
-        self.skills = [
-            "Python",
-            "Java",
-            "SQL",
-            "FastAPI",
-            "PostgreSQL",
-            "Power BI",
-            "Machine Learning",
-            "Deep Learning"
-        ]
+    skills = [
+        "Python",
+        "Java",
+        "SQL",
+        "Machine Learning",
+        "Deep Learning",
+        "FastAPI",
+        "Power BI"
+    ]
 
-        self.interests = [
-            "Generative AI",
-            "Data Analytics",
-            "Backend Development",
-            "Cloud Computing"
-        ]
+    interests = [
+        "Generative AI",
+        "Data Analytics",
+        "Backend Development",
+        "Cloud Computing"
+    ]
 
-    def career_goal(self):
-        return "Building intelligent, scalable, and impactful AI solutions."
+    motto = (
+        "Engineering intelligent solutions through AI, "
+        "data, and innovation."
+    )
+    
 ```
 
-🚀 Passionate about transforming ideas into intelligent software solutions through Artificial Intelligence, Data Analytics, and Modern Software Development.
+🚀 Asa passionate Software Engineer, I have developed proficient skillsin Python, Java, SQL, and Power BI, complemented bymy academic background in AIML. I am eager to leverage my programming abilities in a challenging role.
+
 
 🎓 Artificial Intelligence & Machine Learning Student
 
@@ -82,15 +81,15 @@ class ShankarK:
 
 # 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shankar-k6665)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/YOUR_USERNAME](https://github.com/Shankar-K-6665))
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shankaraiml6665@gmail.com)
 
 ---
 
 # 💻 Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML & CSS](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JAVA](https://img.shields.io/badge/JAVA-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -113,7 +112,6 @@ class ShankarK:
 ![POWER BI](https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
-![DOCKER](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS CODE](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
@@ -231,7 +229,7 @@ class ShankarK:
 
 <div align="center">
 
-### ⭐ Turning Ideas Into Intelligent Solutions Through AI & Data ⭐
+### 🚀 Engineering Intelligent Solutions Through AI, Data, and Innovation 🚀
 
 </div>
 
