@@ -20,7 +20,7 @@
 
 # AI Engineer | Python Developer | Data Analyst | Power BI Enthusiast
 
-### Building Intelligent Solutions Through AI, Data, and Innovation
+### ⚡ Code • Learn • Build • Innovate • Repeat
 
 </div>
 
