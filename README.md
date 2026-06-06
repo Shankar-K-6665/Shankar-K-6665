@@ -149,14 +149,15 @@ class ShankarK:
 
 ---
 
-# 🏆 GitHub Trophies
+## 📈 GitHub Metrics
 
-<div align="center">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Shankar-K-6665&show_icons=true&theme=tokyonight" />
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Shankar-K-6665&theme=tokyonight&row=2&column=4"/>
-
-</div>
-
+<p align="center">
+<img src="https://github-readme-streak-stats.demolab.com?user=Shankar-K-6665&theme=tokyonight" />
+</p>
 ---
 
 # 📈 Contribution Graph
