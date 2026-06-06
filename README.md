@@ -16,31 +16,33 @@
 class ShankarK:
 
     def __init__(self):
-        self.name = "Shankar K"
         self.role = "AI & ML Engineer"
-
-        self.languages = [
-            "Python",
-            "Java",
-            "SQL"
-        ]
+        self.education = "B.E. Artificial Intelligence & Machine Learning"
+        self.location = "Bangalore, India"
 
         self.skills = [
-            "Machine Learning",
-            "Deep Learning",
+            "Python",
+            "Java",
+            "SQL",
             "FastAPI",
+            "PostgreSQL",
             "Power BI",
-            "Data Analytics"
+            "Machine Learning",
+            "Deep Learning"
         ]
 
-    def current_focus(self):
-        return [
+        self.interests = [
             "Generative AI",
-            "MLOps",
-            "Deep Learning",
-            "Backend Development"
+            "Data Analytics",
+            "Backend Development",
+            "Cloud Computing"
         ]
+
+    def career_goal(self):
+        return "Building intelligent, scalable, and impactful AI solutions."
 ```
+
+🚀 Passionate about transforming ideas into intelligent software solutions through Artificial Intelligence, Data Analytics, and Modern Software Development.
 
 🎓 Artificial Intelligence & Machine Learning Student
 
