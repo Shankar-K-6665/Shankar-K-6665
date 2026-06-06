@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Shankar K
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:667eea,100:764ba2&text=Shankar%20K&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20Engineer%20%7C%20Python%20Developer%20%7C%20Data%20Analyst&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00CFFF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning+Engineer;Python+Developer;Data+Analyst;Power+BI+Developer;FastAPI+Backend+Developer;Machine+Learning+Enthusiast;Building+AI-Powered+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence+%26+Machine+Learning+Engineer;Python+Developer;Data+Analyst;Power+BI+Developer;FastAPI+Backend+Developer;Open+Source+Enthusiast;Building+AI+Powered+Solutions"/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Shankar-K-6665&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 
 </div>
 
@@ -12,179 +12,216 @@
 
 # 💫 About Me
 
-🎓 AIML Student passionate about Artificial Intelligence and Data Science
+```python
+class ShankarK:
 
-💻 Software Developer specializing in Python, SQL, FastAPI & Data Analytics
+    def __init__(self):
+        self.name = "Shankar K"
+        self.role = "AI & ML Engineer"
+
+        self.languages = [
+            "Python",
+            "Java",
+            "SQL"
+        ]
+
+        self.skills = [
+            "Machine Learning",
+            "Deep Learning",
+            "FastAPI",
+            "Power BI",
+            "Data Analytics"
+        ]
+
+    def current_focus(self):
+        return [
+            "Generative AI",
+            "MLOps",
+            "Deep Learning",
+            "Backend Development"
+        ]
+```
+
+🎓 Artificial Intelligence & Machine Learning Student
+
+💻 Python Developer & Data Analyst
 
 📊 Power BI Dashboard Developer
 
-🤖 Machine Learning & Deep Learning Enthusiast
-
-🚀 Building AI-powered applications and scalable backend systems
-
-🌱 Currently Learning:
-- Generative AI
-- Deep Learning
-- MLOps
-- Cloud Technologies
-- Advanced Data Analytics
+🚀 Passionate about AI, Data Science & Backend Development
 
 ---
 
 # 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shankaraiml6665@gmail.com)
+<p align="center">
+
+<a href="https://github.com/Shankar-K-6665">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://shankar-portfolio-ten.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/shankar_k6665/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/nhce1nh23ai412">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 # 💻 Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JAVA](https://img.shields.io/badge/JAVA-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
-![PYTHON](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="center">
 
-![FASTAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![STREAMLIT](https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLITE](https://img.shields.io/badge/SQLITE-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,java,html,css,postgresql,sqlite,fastapi,docker,git,github,vscode,tensorflow,pytorch&perline=7"/>
 
-![NUMPY](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![PANDAS](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![MATPLOTLIB](https://img.shields.io/badge/MATPLOTLIB-11557c?style=for-the-badge)
-![SEABORN](https://img.shields.io/badge/SEABORN-3776AB?style=for-the-badge)
+</p>
 
-![SCIKIT--LEARN](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TENSORFLOW](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![KERAS](https://img.shields.io/badge/KERAS-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![PYTORCH](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+<p align="center">
 
-![POWER BI](https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
-![DOCKER](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS CODE](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🤖 AI Powered Startup Recommendation Engine
+### 🤖 AI Powered Startup Recommendation Engine
 
-- AI-driven Startup Recommendation Platform
 - AI Mentor Chatbot
+- Startup Recommendation System
 - Funding Roadmap Generator
-- Co-Founder Matching System
-- FastAPI Backend
-- PostgreSQL Database
+- Co-Founder Matching
+- FastAPI + PostgreSQL
 - Docker Deployment
 
----
+### 🚗 Rental Car Web Application
 
-## 🚗 Rental Car Web Application
-
-- Online Car Booking Platform
-- Secure User Authentication
+- Vehicle Booking Platform
+- Authentication System
 - Booking Management
-- Search & Filter Cars
 - Admin Dashboard
 
----
-
-## 📊 YouTube Trending Analytics Dashboard
+### 📊 YouTube Trending Analytics Dashboard
 
 - Power BI Dashboard
 - SQL Analytics
 - Sentiment Analysis
 - KPI Tracking
-- Data Visualization
 
----
-
-## 📈 Synthetic Data Generator
+### 📈 Synthetic Data Generator
 
 - Streamlit Application
-- Dynamic Dataset Generation
-- CSV Export
+- Dataset Generation
 - Analytics Dashboard
-- Interactive Charts
+- CSV Export
 
 ---
 
 # 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shankar-K-6665&show_icons=true&theme=tokyonight"/>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shankar-K-6665&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Shankar-K-6665&theme=tokyonight"/>
+
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=2&column=4" />
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shankar-K-6665&theme=tokyonight&row=2&column=4"/>
+
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shankar-K-6665&theme=tokyo-night"/>
+
+</div>
 
 ---
 
-# 🏅 Certifications
+# 📚 Currently Learning
 
-✔ SQL and Relational Databases
+✅ Generative AI
 
-✔ IBM SkillsBuild
+✅ Machine Learning
 
-✔ Computer Networking
+✅ Deep Learning
 
-✔ Data Analyst Internship
+✅ FastAPI
 
-✔ Machine Learning Internship
+✅ Data Analytics
 
----
-
-# 🎯 Current Focus
-
-🔹 Generative AI
-
-🔹 Deep Learning
-
-🔹 Machine Learning
-
-🔹 FastAPI Development
-
-🔹 Data Analytics
-
-🔹 Open Source Contributions
+✅ Power BI
 
 ---
 
-# 📫 Reach Me
+# 🏅 Coding Profiles
 
-📧 Email: shankaraiml6665@gmail.com
+<p align="center">
 
-💼 LinkedIn: YOUR_LINKEDIN_URL
+<a href="https://leetcode.com/u/shankar_k6665/">
+<img src="https://img.shields.io/badge/LeetCode-Solve%20Problems-orange?style=for-the-badge&logo=leetcode"/>
+</a>
 
-💻 GitHub: https://github.com/YOUR_USERNAME
+<a href="https://www.codechef.com/users/nhce1nh23ai412">
+<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-brown?style=for-the-badge&logo=codechef"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+<div align="center">
+
+### ⭐ Turning Ideas Into Intelligent Solutions Through AI & Data ⭐
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Turning Ideas Into Intelligent Solutions ⭐
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shankar-K-6665&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+### 🚀 Thanks for Visiting My Profile 🚀
 
 </div>
