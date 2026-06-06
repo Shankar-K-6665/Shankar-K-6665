@@ -173,15 +173,18 @@ class ShankarK:
 
 ---
 
-## 📈 GitHub Metrics
+# 📈 GitHub Metrics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Shankar-K-6665&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shankar-K-6665&theme=github_dark" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shankar-K-6665&theme=github_dark" />
+
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.demolab.com?user=Shankar-K-6665&theme=tokyonight" />
-</p>
 ---
 
 # 📈 Contribution Graph
