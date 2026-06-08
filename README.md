@@ -113,50 +113,6 @@ class ShankarK:
 ![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS CODE](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-
-# 🚀 Featured Projects
-
-### 🤖 AI Powered Startup Recommendation Engine
-
-- AI Mentor Chatbot
-- Startup Recommendation System
-- Funding Roadmap Generator
-- Co-Founder Matching
-- FastAPI + PostgreSQL
-- Docker Deployment
-
-### 🚗 Rental Car Web Application
-
-- Vehicle Booking Platform
-- Authentication System
-- Booking Management
-- Admin Dashboard
-
-### 📊 YouTube Trending Analytics Dashboard
-
-- Power BI Dashboard
-- SQL Analytics
-- Sentiment Analysis
-- KPI Tracking
-
-### 📈 Synthetic Data Generator
-
-- Streamlit Application
-- Dataset Generation
-- Analytics Dashboard
-- CSV Export
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Shankar-K-6665&show_icons=true&theme=radical" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shankar-K-6665&layout=compact&theme=radical" height="170"/>
-</p>
 
 ---
 
@@ -165,18 +121,6 @@ class ShankarK:
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Shankar-K-6665&theme=tokyonight"/>
-
-</div>
-
----
-
-# 📈 GitHub Metrics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shankar-K-6665&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shankar-K-6665&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
